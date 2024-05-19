@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="组_94" data-name="组 94" transform="translate(9239 -2851)">
+    <circle id="椭圆_69" data-name="椭圆 69" cx="30" cy="30" r="30" transform="translate(-9239 2851)" fill="#fff"/>
+    <g id="组_1552" data-name="组 1552" transform="translate(-9239 2851)">
+      <circle id="椭圆_16" data-name="椭圆 16" cx="30" cy="30" r="30" transform="translate(0)" fill="#e1a402"/>
+      <g id="组_1546" data-name="组 1546" transform="translate(9.507 11.212)">
+        <rect id="矩形_885" data-name="矩形 885" width="6.662" height="6.662" transform="translate(31.119 20.271) rotate(-45)" fill="#fff"/>
+        <path id="路径_3538" data-name="路径 3538" d="M344.9,325.022l5.154-5.154,2.866-2.841,2.841,2.841,5.154,5.154,4.7-4.7-12.7-12.721L340.2,320.321Z" transform="translate(-332.637 -307.6)" fill="#fff"/>
+        <path id="路径_3539" data-name="路径 3539" d="M360.915,399.6l-5.154,5.154-2.841,2.841-2.866-2.841L344.9,399.6l-4.7,4.7,12.721,12.721,12.7-12.721Z" transform="translate(-332.637 -376.471)" fill="#fff"/>
+        <rect id="矩形_886" data-name="矩形 886" width="7.291" height="7.291" transform="translate(15.115 20.294) rotate(-45)" fill="#fff"/>
+        <rect id="矩形_887" data-name="矩形 887" width="6.662" height="6.662" transform="translate(0 20.281) rotate(-45)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
