@@ -1,0 +1,14 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="keywords" content=""><meta name="description" content=""><meta name="author" content=""><meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no"><meta name="google" content="notranslate"><title>Moonshot</title><link rel="shortcut icon" href="ico.svg"><meta http-equiv="window-target" content="_top"><meta http-equiv="pragram" content="no-cache"><meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate"><meta http-equiv="expires" content="0"><script src="static/js/safari-nomodule-fix.js" type="module"></script><script defer="defer" src="js/chunk-vendors_1716128362748.js" type="module"></script><script defer="defer" src="js/app_1716128362748.js" type="module"></script><link href="static/css/chunk-vendors.4bae2b07.css" rel="stylesheet"><link href="static/css/app.d7ad2ff6.css" rel="stylesheet"><script defer="defer" src="js/chunk-vendors_1716128332976.js" nomodule></script><script defer="defer" src="js/app_1716128332976.js" nomodule></script></head><body id="app"></body></html><script>(function(doc, win){
+        let docElement = doc.documentElement,
+            resizeEvt = 'orientationchange' in window ? 'orientationchange' : 'resize',
+            recalc = function(){
+                let viewWidth = docElement.clientWidth
+                if(viewWidth > 640) viewWidth = 640
+                if(viewWidth < 320) viewWidth = 320
+                docElement.style.fontSize = 100 * (viewWidth / 640) + 'px'
+                console.log("fontSize",docElement.style.fontSize,"viewWidth",viewWidth,docElement.clientWidth)
+            }
+        recalc()
+        if(!doc.addEventListener) return
+        win.addEventListener(resizeEvt, recalc,false)
+    })(document, window);</script>
